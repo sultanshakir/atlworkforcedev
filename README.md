@@ -9,12 +9,19 @@ The idea for the site is to allow people who are in a tough spot the ability to 
 What we are using to build the site:
 
 Site which we are drawing from: http://www.atlantaga.gov/index.aspx?page=889
+
 Simple MVC framework: http://simplemvcframework.com/php-framework
+
 Twitter Bootstrap: getbootstrap.com
+
 Font Awesome: http://fortawesome.github.io/Font-Awesome/
+
 Vagrant Box docs: box.scotch.io
 
 Tools we recommend:
+
 PHPStorm or Sublime Text
+
 Sequel Pro
+
 Vagrant
