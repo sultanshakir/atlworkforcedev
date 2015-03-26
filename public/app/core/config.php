@@ -29,16 +29,16 @@ class Config {
 		//database details ONLY NEEDED IF USING A DATABASE
 		define('DB_TYPE', 'mysql');
 		define('DB_HOST', 'localhost');
-		define('DB_NAME', 'dbname');
+		define('DB_NAME', 'awfd');
 		define('DB_USER', 'root');
-		define('DB_PASS', 'password');
-		define('PREFIX', 'smvc_');
+		define('DB_PASS', 'root');
+		define('PREFIX', 'awfd_');
 
 		//set prefix for sessions
-		define('SESSION_PREFIX', 'smvc_');
+		define('SESSION_PREFIX', 'awfd_');
 
 		//optionall create a constant for the name of the site
-		define('SITETITLE', 'V2.1');
+		define('SITETITLE', 'AWFD');
 
 		//turn on custom error handling
 		set_exception_handler('core\logger::exception_handler');
