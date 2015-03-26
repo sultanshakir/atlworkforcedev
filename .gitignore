@@ -10,3 +10,5 @@
 .vagrant/machines/default/virtualbox/index_uuid
 
 .vagrant/machines/default/virtualbox/synced_folders
+
+public/errorlog.html
