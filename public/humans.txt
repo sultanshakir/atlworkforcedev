@@ -4,6 +4,8 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+    Matt Trask      - Developer - @matthewtrask
+    Justin Rector   - Developer -
 
 # THANKS
 
@@ -11,5 +13,5 @@
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3
-    jQuery, Modernizr
+    HTML5, CSS3, SimpleMVC, PHP, Bootstrap
+    jQuery, Modernizr, SQL
