@@ -1,8 +1,9 @@
 
 </div>
-<footer id="footer">
-    <p class="text-center"> &copy; <?php echo date("Y.m.d"); ?></p>
-</footer>
+
+<!--<footer id="footer">-->
+<!--    <p class="text-center"> &copy; --><?php //echo date("Y.m.d"); ?><!--</p>-->
+<!--</footer>-->
 
 <!-- JS -->
 <?php
