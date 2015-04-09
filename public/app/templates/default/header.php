@@ -12,7 +12,7 @@
 	<!-- CSS -->
 	<?php
 		helpers\assets::css(array(
-			'//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css',
+			'//cdnjs.cloudflare.com/ajax/libs/materialize/0.96.1/css/materialize.min.css',
 			'//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css',
 			helpers\url::template_path() . 'css/style.css',
 		))
