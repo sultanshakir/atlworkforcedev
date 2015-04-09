@@ -14,11 +14,17 @@
 		helpers\assets::css(array(
 			'//cdnjs.cloudflare.com/ajax/libs/materialize/0.96.1/css/materialize.min.css',
 			'//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css',
-			helpers\url::template_path() . 'css/style.css',
-		))
+			helpers\url::template_path() . 'css/style.css'
+		));
 	?>
 
 
 </head>
-<body>
+<body id="body">
 
+<nav id="nav">
+	<div class="nav-wrapper">
+		<a href="#" class="brand-logo">SuitSwap</a>
+		<ul id="nav-mobile" class="right hide-on-med-and-down"></ul>
+	</div>
+</nav>

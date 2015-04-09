@@ -17,7 +17,7 @@ class Config {
 		ob_start();
 
 		//site address
-		define('DIR', 'http://example.com/');
+		define('DIR', '');
 
 		//set default controller and method for legacy calls
 		define('DEFAULT_CONTROLLER', 'welcome');
@@ -29,7 +29,7 @@ class Config {
 		//database details ONLY NEEDED IF USING A DATABASE
 		define('DB_TYPE', 'mysql');
 		define('DB_HOST', 'localhost');
-		define('DB_NAME', 'awfd');
+		define('DB_NAME', 'sctochbox');
 		define('DB_USER', 'root');
 		define('DB_PASS', 'root');
 		define('PREFIX', 'awfd_');
