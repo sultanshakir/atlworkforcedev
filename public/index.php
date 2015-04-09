@@ -6,7 +6,7 @@ if(file_exists('vendor/autoload.php')){
 	echo "<p>Install Composer instructions: <a href='https://getcomposer.org/doc/00-intro.md#globally'>https://getcomposer.org/doc/00-intro.md#globally</a></p>";
 	echo "<p>Once composer is installed navigate to the working directory in your terminal/command promt and enter 'composer install'</p>";
 	exit;
-}
+} 
 
 if (!is_readable('app/core/config.php')) {
 	die('No config.php found, configure and rename config.php to config.php in app/core.');
