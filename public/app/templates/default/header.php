@@ -14,25 +14,17 @@
 		helpers\assets::css(array(
 			'//cdnjs.cloudflare.com/ajax/libs/materialize/0.96.1/css/materialize.min.css',
 			'//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css',
-			helpers\url::template_path() . 'css/style.css',
-		))
+			helpers\url::template_path() . 'css/style.css'
+		));
 	?>
 
 
 </head>
-<body>
+<body id="body">
 
-		<nav class="navbar navbar-fixed-top" role="navigation" id="nav">
-			<div class="container">
-				<div class="navbar-header navbar-left">
-					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navBarCollapse">
-						<span class="sr-only">Toggle Navigation</span>
-						<span class="icon-bar"></span>
-						<span class="icon-bar"></span>
-						<span class="icon-bar"></span>
-					</button>
-					<a href="#" class="navbar-brand">Suit Swap</a>
-				</div>
-			</div>
-		</nav>
-
+<nav id="nav">
+	<div class="nav-wrapper">
+		<a href="#" class="brand-logo">SuitSwap</a>
+		<ul id="nav-mobile" class="right hide-on-med-and-down"></ul>
+	</div>
+</nav>
