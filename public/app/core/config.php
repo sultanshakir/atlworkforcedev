@@ -45,7 +45,7 @@ class Config {
 		set_error_handler('core\logger::error_handler');
 
 		//set timezone
-		date_default_timezone_set('Europe/London');
+		date_default_timezone_set('America/New York');
 
 		//start sessions
 		\helpers\session::init();

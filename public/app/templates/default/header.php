@@ -22,17 +22,3 @@
 </head>
 <body>
 
-		<nav class="navbar navbar-fixed-top" role="navigation" id="nav">
-			<div class="container">
-				<div class="navbar-header navbar-left">
-					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navBarCollapse">
-						<span class="sr-only">Toggle Navigation</span>
-						<span class="icon-bar"></span>
-						<span class="icon-bar"></span>
-						<span class="icon-bar"></span>
-					</button>
-					<a href="#" class="navbar-brand">Suit Swap</a>
-				</div>
-			</div>
-		</nav>
-

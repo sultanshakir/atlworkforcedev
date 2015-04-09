@@ -1,14 +1,1 @@
 /* Your styles here */
-
-body, nav {
-    font-size: 2.5rem;
-}
-
-nav#nav {
-    margin-bottom: 30px;
-    background-color: red;
-}
-
-#nav a {
-    color: black;
-}
