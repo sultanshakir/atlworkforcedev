@@ -1,5 +1,19 @@
 
-</div>
+<footer class="page-footer" id="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col 16 s12">
+                <h5 class="white-text">SuitSwap</h5>
+                <h6 class="white-text">Helping People On To Their Feet</h6>
+            </div>
+        </div>
+    </div>
+    <div class="footer-copyright">
+        <div class="container">
+            <p> &Copy; <?php echo date('Y'); ?></p>
+        </div>
+    </div>
+</footer>
 
 <!--<footer id="footer">-->
 <!--    <p class="text-center"> &copy; --><?php //echo date("Y.m.d"); ?><!--</p>-->
