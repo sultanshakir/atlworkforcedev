@@ -11,4 +11,6 @@
 
 .vagrant/machines/default/virtualbox/synced_folders
 
+.idea
+
 public/errorlog.html
