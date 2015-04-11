@@ -14,3 +14,22 @@
     background-color: #3d5afe;
 }
 
+#suit-img {
+    /*height: 500px;*/
+    /*width: auto;*/
+}
+
+.suit-btn-large {
+    margin: 20px 30% 0px 30%;
+    width: 40%;
+    height: 80px;
+    line-height: 80px;
+    font-size: 40px;
+    font-family: "Verdana";
+}
+.fa-chevron-right {
+    height: auto;
+    letter-spacing: normal;
+    line-height: 50px;
+    vertical-align: bottom;
+}
