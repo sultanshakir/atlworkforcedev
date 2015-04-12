@@ -10,7 +10,7 @@
     </div>
     <div class="footer-copyright">
         <div class="container">
-            <p> &Copy; <?php echo date('Y'); ?></p>
+            <p> &copy; <?php echo date('Y'); ?></p>
         </div>
     </div>
 </footer>
@@ -24,9 +24,17 @@
 helpers\assets::js(helpers\url::template_path() . 'js/jquery.js');
 helpers\assets::js(helpers\url::template_path() . 'js/modernizr.min.js');
 helpers\assets::js(array(
-    '//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js'
+    '//cdnjs.cloudflare.com/ajax/libs/materialize/0.96.1/js/materialize.min.js',
+    '//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js'
 ));
 ?>
+
+<script type="text/javascript">
+        // Initialize collapse button
+        //$(".button-collapse").sideNav();
+        // Initialize collapsible (uncomment the line below if you use the dropdown variation)
+        $('.collapsible').collapsible();
+</script>
 
 </body>
 </html>
