@@ -6,3 +6,7 @@
  * Time: 8:23 PM
  */
 ?>
+
+<div class="main" id="services">
+
+</div>

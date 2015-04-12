@@ -7,3 +7,7 @@
  */
 
 ?>
+
+<div class="main" id="contact">
+
+</div>

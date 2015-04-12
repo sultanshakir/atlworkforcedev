@@ -6,6 +6,7 @@
  * Time: 8:08 PM
  */
 ?>
+<<<<<<< HEAD
 <div>
 <!--    <img id='suit-img' class="responsive-img" src="../../../documentation/assets/images/suit.jpg">-->
     <div class="row">
@@ -23,3 +24,9 @@
         </div>
     </div>
 </div>
+=======
+
+<div class="main" id="home">
+
+</div>
+>>>>>>> mattdev

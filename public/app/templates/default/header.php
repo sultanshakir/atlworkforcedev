@@ -22,6 +22,7 @@
 </head>
 <body id="body">
 
+<<<<<<< HEAD
 <nav id="nav">
 	<div class="nav-wrapper">
 		<a href="#" class="brand-logo">SuitSwap</a>
@@ -42,3 +43,17 @@
 </nav>
 
 
+=======
+	<nav id="nav">
+		<div class="nav-wrapper">
+			<a href="#" class="brand-logo">SuitSwap</a>
+			<a href="#" class="button-collapse" data-activates="mobile-demo"><i class="mdi-navigation-menu"></i></a>
+			<ul id="nav-mobile" class="right hide-on-med-and-down">
+				<li><a href="#">About Us</a></li>
+				<li><a href="#">Services</a></li>
+				<li><a href="#">Donate</a></li>
+				<li><a href="#">Contact Us</a></li>
+			</ul>
+		</div>
+	</nav>
+>>>>>>> mattdev
