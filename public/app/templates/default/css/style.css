@@ -8,6 +8,7 @@
 #footer {
     background-color: #3d5afe;
 }
+
 #suit-img {
     /*height: 500px;*/
     /*width: auto;*/
@@ -29,4 +30,5 @@
 /* HOME STYLES */
 #home {
     background-color: white;
+    background: url(../img/atlanta.jpg) no-repeat center center fixed;
 }
