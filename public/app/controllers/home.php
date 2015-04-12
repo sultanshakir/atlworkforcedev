@@ -9,3 +9,26 @@
 namespace controllers;
 
 use core\view;
+
+class Home extends \core\controller {
+
+    public function __construct() {
+
+    }
+
+    public function index() {
+
+    }
+
+    public function about() {
+
+    }
+
+    public function services() {
+
+    }
+
+    public function contact() {
+
+    }
+}
