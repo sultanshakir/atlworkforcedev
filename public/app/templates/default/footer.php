@@ -23,17 +23,17 @@
 <?php
 helpers\assets::js(helpers\url::template_path() . 'js/jquery.js');
 helpers\assets::js(helpers\url::template_path() . 'js/modernizr.min.js');
-<<<<<<< HEAD
+
 helpers\assets::js(array(
     '//cdnjs.cloudflare.com/ajax/libs/materialize/0.96.1/js/materialize.min.js',
     '//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js'
 ));
-=======
+
 helpers\assets::js(helpers\url::template_path() . 'js/materialize.min.js');
 //helpers\assets::js(array(
 //    '//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/materialize.min.js'
 //));
->>>>>>> mattdev
+
 ?>
 
 <script type="text/javascript">
