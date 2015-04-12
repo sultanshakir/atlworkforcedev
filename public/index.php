@@ -65,7 +65,11 @@ use \core\router,
 
 //define routes
 Router::any('', '\controllers\welcome@index');
-Router::any('/subpage', '\controllers\welcome@subpage');
+Router::any('', '\controllers\home@index');
+Router::any('/about', '\controllers\home@about');
+Router::any('/services','\controllers\home@services');
+Router::any('/contact', '\controllers\home@contact');
+//Router::any('/subpage', '\controllers\welcome@subpage');
 
 //if no route found
 Router::error('\core\error@index');
