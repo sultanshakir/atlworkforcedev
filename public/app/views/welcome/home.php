@@ -6,9 +6,9 @@
  * Time: 8:08 PM
  */
 ?>
-<<<<<<< HEAD
-<div>
-<!--    <img id='suit-img' class="responsive-img" src="../../../documentation/assets/images/suit.jpg">-->
+
+<div id="home" class="main">
+    <!--    <img id='suit-img' class="responsive-img" src="../../../documentation/assets/images/suit.jpg">-->
     <div class="row">
         <div class="col s12">
             <a class="waves-effect waves-light teal lighten-3 btn-large suit-btn-large">
@@ -24,9 +24,5 @@
         </div>
     </div>
 </div>
-=======
 
-<div class="main" id="home">
 
-</div>
->>>>>>> mattdev
