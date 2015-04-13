@@ -10,7 +10,7 @@
     </div>
     <div class="footer-copyright">
         <div class="container">
-            <p> &Copy; <?php echo date('Y'); ?></p>
+            <p> &copy; <?php echo date('Y'); ?></p>
         </div>
     </div>
 </footer>
