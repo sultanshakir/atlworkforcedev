@@ -13,10 +13,10 @@
     <div class="row">
         <div class="col s12">
             <a class="waves-effect waves-light teal lighten-3 btn-large suit-btn-large">
-                <i class="fa fa-chevron-right fa-fw"></i>&nbsp;&nbsp;Donate Suit
+                <i class="fa fa-chevron-right fa-fw"></i>&nbsp;&nbsp;Donate A Suit
             </a>
             <a class="waves-effect waves-light teal lighten-3 btn-large suit-btn-large">
-                <i class="fa fa-chevron-right fa-3x"></i>&nbsp;&nbsp;Get Suit
+                <i class="fa fa-chevron-right fa-3x"></i>&nbsp;&nbsp;Get A Suit
             </a>
         </div>
     </div>
