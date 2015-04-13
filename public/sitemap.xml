@@ -19,6 +19,12 @@
         <priority>0.8</priority>
     </url>
     <url>
+        <loc>Suitswap.org/donate</loc>
+        <lastmod></lastmod>
+        <changefeq>monthly</changefeq>
+        <priority>0.8</priority>
+    </url>
+    <url>
         <loc>Suitswap.org/contact</loc>
         <lastmod></lastmod>
         <changefeq>monthly</changefeq>
