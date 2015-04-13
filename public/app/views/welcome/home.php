@@ -10,11 +10,13 @@
 <div id="home" class="main">
     <!--    <img id='suit-img' class="responsive-img" src="../../../documentation/assets/images/suit.jpg">-->
     <div class="row">
-        <div class="col s12">
-            <a class="waves-effect waves-light teal lighten-3 btn-large suit-btn-large">
-                <i class="fa fa-chevron-right fa-fw"></i>&nbsp;&nbsp;Donate A Suit
+        <div class="col s12 m6 l6">
+            <a class="waves-effect waves-light teal lighten-3 btn-large suit-btn-large" id="btn">
+                <i class="fa fa-chevron-right fa-fw"></i>&nbsp;&nbsp;Donate
             </a>
-            <a class="waves-effect waves-light teal lighten-3 btn-large suit-btn-large">
+        </div>
+        <div class="col s12 m6 l6">
+            <a class="waves-effect waves-light teal lighten-3 btn-large suit-btn-large" id="btn">
                 <i class="fa fa-chevron-right fa-3x"></i>&nbsp;&nbsp;Get A Suit
             </a>
         </div>
