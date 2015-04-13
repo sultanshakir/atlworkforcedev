@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>Suitswap.org</loc>
+        <lastmod></lastmod>
+        <changefeq>monthly</changefeq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>Suitswap.org/about</loc>
+        <lastmod></lastmod>
+        <changefeq>monthly</changefeq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>Suitswap.org/services</loc>
+        <lastmod></lastmod>
+        <changefeq>monthly</changefeq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>Suitswap.org/contact</loc>
+        <lastmod></lastmod>
+        <changefeq>monthly</changefeq>
+        <priority>0.8</priority>
+    </url>
+</urlset>
