@@ -4,7 +4,7 @@
         <div class="row">
             <div class="col 16 s12">
                 <h5 class="white-text">SuitSwap</h5>
-                <h6 class="white-text">Helping People On To Their Feet</h6>
+                <h6 class="white-text">Helping people get on their feet</h6>
             </div>
         </div>
     </div>
