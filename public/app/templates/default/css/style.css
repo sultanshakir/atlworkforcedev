@@ -13,6 +13,10 @@
     padding-top: 0px;
 }
 
+#main, #services, #home, #about, #contact, #donate {
+    height: 705px;
+}
+
 /* NAV BAR */
 
 .brand-logo {
@@ -52,13 +56,28 @@
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    margin-bottom: -20px;
+    opacity: 0.7;
 }
 
-#services {}
+#services {
+    background: url(../img/atlanta-night.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    opacity: 0.7;
+}
 
 #about {}
 
-#contact {}
+#contact {
 
-#donate {}
+}
+#donate {
+    background: url(../img/atlanta-lake.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    opacity: 0.7;
+}
