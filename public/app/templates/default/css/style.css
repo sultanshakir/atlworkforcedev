@@ -1,19 +1,20 @@
 /* GLOBAL STYLES */
 #body {
-    background-color: #e0e0e0;
+    background-color: #fafafa;
     color: #fff;
 }
 #nav {
-    background-color: #3d5afe;
+    background-color: #1976d2;
 }
 #footer {
-    background-color: #3d5afe;
+    background-color: #1976d2;
 }
 
 #suit-img {
     /*height: 500px;*/
     /*width: auto;*/
 }
+
 .suit-btn-large {
     margin: 20px 30% 0px 30%;
     width: 40%;
@@ -28,8 +29,10 @@
     line-height: 50px;
     vertical-align: bottom;
 }
+
 /* HOME STYLES */
 #home {
     background-color: white;
     background: url(../img/atlanta.jpg) no-repeat center center fixed;
 }
+

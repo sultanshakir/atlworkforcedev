@@ -70,6 +70,7 @@ Router::any('home', '\controllers\home@index');
 Router::any('about', '\controllers\home@about');
 Router::any('services','\controllers\home@services');
 Router::any('contact', '\controllers\home@contact');
+Router::any('donate', '\controllers\home@donate');
 //Router::any('/subpage', '\controllers\welcome@subpage');
 
 //if no route found
