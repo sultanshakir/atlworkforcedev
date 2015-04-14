@@ -40,9 +40,11 @@ helpers\assets::js(helpers\url::template_path() . 'js/materialize.min.js');
 
 <script type="text/javascript">
         // Initialize collapse button
-        //$(".button-collapse").sideNav();
+        $(document).ready(function () {
+            $(".button-collapse").sideNav();
+        });
         // Initialize collapsible (uncomment the line below if you use the dropdown variation)
-        $('.collapsible').collapsible();
+        // $('.collapsible').collapsible();
 </script>
 
 </body>
